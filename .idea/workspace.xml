@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="773bf1e1-4825-4123-ab4e-70755f0dc3bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YearsCalculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YearsMorphology.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/YearsCalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/YearsMorphologyTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bin/php-parse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bin/php-parse.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bin/phpunit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bin/phpunit.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/doctrine/instantiator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/myclabs/deep-copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/nikic/php-parser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phar-io/manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phar-io/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-invoker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-text-template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-timer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/cli-parser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/code-unit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/comparator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/complexity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/environment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/exporter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/global-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/lines-of-code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/object-enumerator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/object-reflector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/recursion-context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/resource-operations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/sebastian/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/theseer/tokenizer" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <phar pharPath="C:\ProgramData\ComposerSetup\bin\composer.phar" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jsS4vryr4g12JTHKilheNadfBV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowCommit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/modules/PHP-8.3/PHP/php.ini-development&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.composer&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="773bf1e1-4825-4123-ab4e-70755f0dc3bb" name="Changes" comment="" />
+      <created>1722174104977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722174104977</updated>
+      <workItem from="1722174105731" duration="157000" />
+      <workItem from="1722174273864" duration="625000" />
+      <workItem from="1722188555986" duration="8271000" />
+      <workItem from="1722200294357" duration="3073000" />
+      <workItem from="1722204245232" duration="684000" />
+      <workItem from="1722204956083" duration="449000" />
+      <workItem from="1722205437421" duration="3958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
