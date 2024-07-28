@@ -4,59 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="773bf1e1-4825-4123-ab4e-70755f0dc3bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YearsCalculator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YearsMorphology.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/YearsCalculatorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/YearsMorphologyTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bin/php-parse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bin/php-parse.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bin/phpunit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bin/phpunit.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/doctrine/instantiator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/myclabs/deep-copy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/php-parser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phar-io/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phar-io/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-invoker" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-text-template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/php-timer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/cli-parser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/code-unit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/comparator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/complexity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/diff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/environment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/exporter" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/global-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/lines-of-code" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/object-enumerator" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/object-reflector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/recursion-context" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/resource-operations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/type" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sebastian/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/theseer/tokenizer" afterDir="false" />
-    </list>
+    <list default="true" id="773bf1e1-4825-4123-ab4e-70755f0dc3bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +16,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
@@ -88,7 +36,7 @@
     &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowCommit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/modules/PHP-8.3/PHP/php.ini-development&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -132,7 +80,7 @@
       <workItem from="1722200294357" duration="3073000" />
       <workItem from="1722204245232" duration="684000" />
       <workItem from="1722204956083" duration="449000" />
-      <workItem from="1722205437421" duration="3958000" />
+      <workItem from="1722205437421" duration="4295000" />
     </task>
     <servers />
   </component>
