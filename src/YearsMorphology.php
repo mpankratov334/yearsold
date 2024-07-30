@@ -1,8 +1,10 @@
 <?php
 
-namespace src;
+namespace App;
 
-class YearsMorphology
+use App\interfaces\YearsMorphologyInterface;
+
+class YearsMorphology implements YearsMorphologyInterface
 {
     public static function morphology(int $num): string
     {

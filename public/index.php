@@ -1,10 +1,8 @@
 <?php
 
-use src\YearsMorphology;
-use src\YearsCalculator;
+require_once '../vendor/autoload.php';
+require_once __DIR__ . '/../src/bootstrap.php';
 
-require_once __DIR__ . '/../src/YearsMorphology.php';
-    require_once __DIR__ . '/../src/YearsCalculator.php';
 ?>
 <!DOCTYPE html>
 <html lang="ru">
@@ -20,13 +18,9 @@ require_once __DIR__ . '/../src/YearsMorphology.php';
     <button type="submit">Отправить</button>
 </form>
 <?php
-// Проверяем, был ли отправлен запрос методом POST и есть ли данные в поле 'date'
-if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['date'])) {
-    $date = htmlspecialchars($_POST['date']); // Получаем и очищаем данные
-    $years = YearsCalculator::calculate($date);
-    $suffix = YearsMorphology::morphology($years);
-    echo "Прошло $years $suffix";
-}
+    $yearsCalculator = new App\YearsCalculator();
+    $yearsMorphology = new App\YearsMorphology();
+    new App\App($yearsCalculator, $yearsMorphology);
 ?>
 </body>
 </html>
